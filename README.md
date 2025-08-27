@@ -1,2 +1,3 @@
-# ML0ps-practical-1
-simple practical
+# MLOps Practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Ari
